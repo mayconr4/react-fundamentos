@@ -1,7 +1,10 @@
+/*Tudo o que for usado dentro de componentes (imagens, fontes etc ), deve ser importado. Desta forma, no momento do build, haverá otimizações para este conteúdo. */
+import logo from "./assets/logo-react.png";
+
 export default function Cabecalho() {
   return (
     <header>
-      <h1>olá React! 🪼</h1>
+      <h1>Olá React! 🪼</h1>
       <hr />
       <nav>
         <a href="">Home</a>
