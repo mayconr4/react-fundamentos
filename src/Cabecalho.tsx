@@ -4,7 +4,10 @@ import logo from "./assets/logo-react.png";
 export default function Cabecalho() {
   return (
     <header>
-      <h1>Olá React! 🪼</h1>
+      <h1>
+        {" "}
+        <img src={logo} alt="" /> Olá React! 🪼
+      </h1>
       <hr />
       <nav>
         <a href="">Home</a>
