@@ -1,4 +1,4 @@
-import Artigo from "../Artigo";
+import Artigo from "./Artigo";
 
 export default function Conteudo() {
   return (

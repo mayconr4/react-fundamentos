@@ -1,0 +1,18 @@
+/* Evite nomear as classes usando hífen::afterExemplo: topo-site {}
+Isso, vai te obrigar a usar a classe através de sintaxe 
+de array com colchetes */
+
+/* Prefira usar asintaxe camelCase: */
+.topoSite {
+  background-color: #20232a;
+  color: royalblue;
+  padding: 1rem;
+}
+
+.logo {
+  vertical-align: middle;
+  margin-right: 0.2rem;
+}
+
+.titulo {
+}
