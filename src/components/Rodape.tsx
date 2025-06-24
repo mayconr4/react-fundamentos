@@ -10,7 +10,7 @@ const estilosRodape: CSSProperties = {
 export default function Rodape() {
   return (
     <>
-      <footer>
+      <footer style={estilosRodape}>
         <h2>Pequeno site criado com react</h2>
         <p style={{ color: "red", fontWeight: "bold" }}>
           Desenvolvido por <b>Maycon</b> &copy; 2025

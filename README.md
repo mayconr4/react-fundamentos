@@ -1,5 +1,11 @@
 # Fundamentos de react
 
+## 04_estilos
+
+- CSS global usando seletores tradicionais
+- CSS inline via style e escrevendo CSS in JS (objeto com propriedade CSS)
+- CSS inline criando um objeto do tipo CSSProperties e passando-o para o style do componente
+
 ## 03_componentes-filhos-ou-internos
 
 - Criação de um componente filho (Menu) e importação/usp no pai(Cabecalho)
