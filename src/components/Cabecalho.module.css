@@ -7,6 +7,17 @@ de array com colchetes */
   background-color: #20232a;
   color: royalblue;
   padding: 1rem;
+
+  a {
+    text-decoration: none;
+    color: orange;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid;
+    margin: 0.4rem 0;
+  }
 }
 
 .logo {
@@ -22,3 +33,10 @@ de array com colchetes */
   gap: 0.5rem;
   font-size: 1.5rem;
 }
+
+/* Classe/ seletor descendente: 
+formata os links  contidos na classe do header 
+a {
+   text-decoration: none;
+   color: orange;
+  }*/

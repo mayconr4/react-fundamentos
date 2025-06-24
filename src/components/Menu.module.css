@@ -1,0 +1,40 @@
+/* .menu {
+    text-align: center;
+  align-items: center;
+
+  a {
+    padding: 0.5rem;
+    color: royalblue;
+  }
+}
+
+.menu:hover {
+  color: #333;
+  transform: scale(1.1);
+
+  a {
+    color: #fff;
+  }
+} */
+
+.menuList {
+  display: flex;
+  gap: 16px;
+}
+
+.menuItem {
+  background-color: #333;
+  color: #fff;
+  padding: 16px 32px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background-color 0.2s, color 0.2s, transform 0.2s;
+  cursor: pointer;
+}
+
+.menuItem:hover {
+  background-color: #fff;
+  color: #333;
+  transform: scale(1.1);
+}
