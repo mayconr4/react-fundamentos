@@ -1,11 +1,7 @@
-/* .menu {
-    text-align: center;
-  align-items: center;
-
-  a {
-    padding: 0.5rem;
-    color: royalblue;
-  }
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
 }
 
 .menu:hover {
@@ -15,9 +11,9 @@
   a {
     color: #fff;
   }
-} */
+}
 
-.menuList {
+/* .menuList {
   display: flex;
   gap: 16px;
 }
@@ -37,4 +33,4 @@
   background-color: #fff;
   color: #333;
   transform: scale(1.1);
-}
+} */
