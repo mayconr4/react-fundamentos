@@ -1,5 +1,21 @@
 # Fundamentos de react
 
+## 📌 O que é Tailwind CSS?
+
+Tailwind CSS é um framework CSS utilitário que permite criar interfaces modernas de forma rápida usando classes diretamente no HTML ou JSX. Em vez de escrever estilos personalizados, você utiliza classes prontas como flex, p-4, bg-blue-500, etc.
+
+## ✅ Vantagens do Tailwind
+
+Desenvolvimento mais rápido: sem precisar sair do HTML/JSX para estilizar.
+
+- Total controle de layout: espaçamentos, cores, fontes, bordas e muito mais com precisão.
+
+- Estilo consistente: fácil de manter e reaproveitar.
+
+- Responsividade facilitada: suporte integrado a breakpoints (sm:, md:, lg: etc).
+
+Altamente customizável: tema, cores e componentes podem ser configurados no tailwind.config.js.
+
 ## 06_styled-components
 
 Styled Components é umá biblioteca (lib) muito usada com projetos React que permite escrever estilos CSS dentro do JavaScript usando á própria sintaxe do CSS. Os estilos acoplados ao componente em que foram declarados.
