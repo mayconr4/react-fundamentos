@@ -1,4 +1,4 @@
-import logo from "../assets/logo-react.png";
+import logo from "../../assets/logo-react.png";
 import Menu from "../Menu/Menu";
 import estilos from "./Cabecalho.module.css";
 
